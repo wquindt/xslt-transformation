@@ -1,0 +1,1 @@
+Vor der Transformation alle Attribute aus dem Root-Element "MediaInfo" entfernen.
